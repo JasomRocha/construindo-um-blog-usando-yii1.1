@@ -2,7 +2,6 @@
 *.env
 
 app/config/database.php
-blog/vendor/
 app/runtime/
 web/assets/
 vendor/
