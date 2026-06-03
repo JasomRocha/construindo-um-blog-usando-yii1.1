@@ -1,0 +1,9 @@
+.idea
+*.env
+
+blog/protected/config/database.php
+blog/vendor
+blog/protected/runtime/
+blog/assets/
+
+yii/
