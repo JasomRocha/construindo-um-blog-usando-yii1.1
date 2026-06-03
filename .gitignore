@@ -1,9 +1,9 @@
 .idea/
 *.env
 
-blog/protected/config/database.php
+app/config/database.php
 blog/vendor/
-blog/protected/runtime/
-blog/assets/
+app/runtime/
+web/assets/
 vendor/
 yii/
