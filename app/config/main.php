@@ -7,7 +7,7 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__) . DIRECTORY_SEPARATOR .'..', // Caminho já mapeia corretamnte para um nível acima da config
-	'name'=>'Meu projeto Yii',
+	'name'=>'Meu projeto Yii - Sim! É isso.',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -21,14 +21,13 @@ return array(
 
 	'modules'=>array(
 		// uncomment the following to enable the Gii tool
-		/*
+
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'Enter Your Password Here',
+			'password'=>'password',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 			'ipFilters'=>array('127.0.0.1','::1'),
 		),
-		*/
 	),
 
 	// application components

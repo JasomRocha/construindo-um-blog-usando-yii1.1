@@ -6,7 +6,8 @@ $this->breadcrumbs=array(
 	'About',
 );
 ?>
-<h1>About</h1>
+<h1>Sobre</h1>
 
-<p>This is a "static" page. You may change the content of this page
-by updating the file <code><?php echo __FILE__; ?></code>.</p>
+<p>Esse projeto surgiu da necessidade de se entender mais sobre como o YII funciona</p>
+<p>Estou fazendo um parralelo com um framework ao qual eu gosto muito, o laravel e utilizando a mesma ideologia</p>
+<p>Sempre estou fazendo comparações e analogias entre os frameworks, apesar de estarmos em 2026, versões antigas do php são comuns em projetos legados assim como frameworks como o Yii 1.1</p>
