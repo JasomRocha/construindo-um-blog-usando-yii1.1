@@ -1,7 +1,9 @@
 <?php
 
 // change the following paths if necessary
+// Localização do framework yii
 $yii= dirname(__FILE__) . '/../vendor/yiisoft/yii/framework/yii.php';
+// Arquivo de configuração da aplicação
 $config= dirname(__FILE__) . '/../app/config/main.php';
 
 // remove the following lines when in production mode

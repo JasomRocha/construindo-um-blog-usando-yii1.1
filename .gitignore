@@ -2,7 +2,7 @@
 *.env
 
 app/config/database.php
-app/runtime/
-web/assets/
+app/runtime/*
+web/assets/*
 vendor/
 yii/
