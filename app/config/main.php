@@ -13,6 +13,7 @@ return array(
 	'preload'=>array('log'),
 
 	// autoloading model and component classes
+    // Ele carrega todos os modelos e todos os componentes
 	'import'=>array(
 		'application.models.*',
 		'application.components.*',
@@ -51,6 +52,8 @@ return array(
 		*/
 
 		// database settings are configured in database.php
+        // Importa os arquivos de configuração do banco
+        // Poderia ser uma variável de ambiente .env
 		'db'=> require(dirname(__FILE__) . '/database.php'),
 
 		'errorHandler'=>array(
